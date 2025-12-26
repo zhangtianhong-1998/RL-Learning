@@ -12,6 +12,7 @@
 本项目旨在为强化学习初学者和研究者提供一份高质量的中对照参考资料。原著以数学严谨性著称，深入浅出地讲解了强化学习的核心理论。
 
 * **原著地址**：[MathFoundationRL (GitHub)](https://github.com/MathFoundationRL)
+* **视频地址**：[Bilibili](https://www.bilibili.com/video/BV1Dg41127zU/)
 * **翻译工具**：Gemini 3 Pro (截图识别 + 全文翻译)
 * **整理平台**：飞书文档 (Lark Doc)
 * **包含内容**：正文翻译、数学公式重排、个人理解注释。
